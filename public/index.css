@@ -1,0 +1,10 @@
+#root{
+    position:absolute;
+    z-index: -1000;
+    height: 0;
+    width: 0;
+}
+
+html,body{
+    font-family: 'Times New Roman';
+}
